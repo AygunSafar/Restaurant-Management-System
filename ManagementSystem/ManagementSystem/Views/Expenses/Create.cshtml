@@ -1,0 +1,55 @@
+﻿
+@{
+    ViewData["Title"] = "Create";
+}
+@model Expense
+
+<div class="row">
+    <div class="col-md-6 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Xərci Qeyd Et </h4>
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <p class="card-description">
+                    Zəhmət olmasa məlumatları qeyd edin.
+                </p>
+                <form method="post" class="forms-sample">
+                    <div class="form-group">
+                        <label asp-for="Money">Miqdar</label>
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text bg-primary text-white">$</span>
+                            </div>
+                            <input asp-for="Money" class="form-control">
+                            <div class="input-group-append">
+                                <span class="input-group-text">.00</span>
+                            </div>
+                        </div>
+                        <span style="font-size:small" asp-validation-for="Money" class="text-danger">  </span>
+                    </div>
+
+              
+               
+
+                    <div class="form-group">
+                        <label asp-for="About">Xərc haqqinda</label>
+                        <textarea asp-for="About" class="form-control"></textarea>
+                        <span style="font-size:small" asp-validation-for="About" class="text-danger">  </span>
+                    </div>
+                   
+                        
+                
+
+
+
+                    <button type="submit" class="btn btn-primary mr-2">Təsdiqlə</button>
+                    <a class="btn btn-secondary" asp-action="Index">Geriyə</a>
+
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+

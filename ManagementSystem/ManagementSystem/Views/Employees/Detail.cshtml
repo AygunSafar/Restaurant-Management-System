@@ -1,0 +1,92 @@
+﻿@model Employee
+@{
+    ViewData["Title"] = "Detail";
+}
+
+<div class="card">
+
+
+    <div class="card-body">
+        <h4 class="card-title">İşçi Haqqında</h4>
+        <p class="card-description">
+    
+        </p>
+        <form method="post" class="forms-sample">
+            <div class="form-group">
+                <label asp-for="FullName">Ad və Soyad</label>
+                <input asp-for="FullName" class="form-control">
+            </div>
+            <div>
+                <span asp-validation-for="FullName" class="text-danger">  </span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="FatherName">Ata adı</label>
+                <input asp-for="FatherName" class="form-control">
+            </div>
+            <div>
+                <span asp-validation-for="FatherName" class="text-danger">  </span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BirthDate">Doğum tarixi</label>
+                <input asp-for="BirthDate" type="date" class="form-control" id="exampleInputName1" placeholder="dd/mm/yyyy">
+            </div>
+            <div>
+                <span asp-validation-for="BirthDate" class="text-danger">  </span>
+            </div>
+            <div>
+                <label asp-for="Gender">Cins</label>
+                <select asp-for="Gender" asp-items="Html.GetEnumSelectList<ManagementSystem.Helper.Helper.Gender>() " class="form-control">
+                </select>
+
+
+            </div>
+            <div>
+                <span asp-validation-for="Gender" class="text-danger">  </span>
+            </div>
+
+
+
+            <div class="form-group">
+                <label asp-for="PhoneNumber">Mobil nömrə</label>
+                <input asp-for="PhoneNumber" class="form-control">
+            </div>
+            <div>
+                <span asp-validation-for="PhoneNumber" class="text-danger">  </span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Email">Email</label>
+                <input asp-for="Email" class="form-control">
+            </div>
+            <div>
+                <span asp-validation-for="Email" class="text-danger">  </span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Salary">Maaş</label>
+                <input asp-for="Salary" class="form-control">
+            </div>
+            <div>
+                <span asp-validation-for="Salary" class="text-danger">  </span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Job.Name">Vəzifə</label>
+                <input asp-for="Job.Name" class="form-control">
+            </div>
+            <div>
+                <span asp-validation-for="Job.Name" class="text-danger">  </span>
+            </div>
+
+            
+            <a class="btn btn-light" asp-action="Index">Geriyə</a>
+
+        </form>
+    </div>
+</div>
+
+@section Css{
+    
+}
+
+

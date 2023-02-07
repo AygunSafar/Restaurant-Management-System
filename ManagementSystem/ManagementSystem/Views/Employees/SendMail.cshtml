@@ -1,0 +1,66 @@
+﻿@{
+    ViewData["Title"] = "SendMail";
+}
+@model Email
+
+
+<div class="card">
+
+
+    <div class="card-body">
+        <h4 class="card-title">İşçiyə Mail Göndər</h4>
+        <p class="card-description">
+            Zəhmət olmasa bütün xanaları doldurun.
+        </p>
+        <form method="post" class="forms-sample" enctype="multipart/form-data">
+            @if (ViewBag.Info != null)
+            {
+                <div class="form-group form-control">
+                    @ViewBag.Info.FullName
+                </div>
+                <div class="form-group form-control">
+                    @ViewBag.Info.Email
+                </div>
+            }
+
+
+            <div class="form-group">
+                <label asp-for="Files">Fayllar</label>
+                <input asp-for="Files" class="form-control">
+            </div>
+            <div>
+                <span asp-validation-for="Files" class="text-danger">  </span>
+            </div>
+
+
+            <div class="form-group">
+                <label asp-for="Body">Başlıq</label>
+                <input asp-for="Body" class="form-control">
+            </div>
+            <div>
+                <span asp-validation-for="Body" class="text-danger">  </span>
+            </div>
+
+
+
+            <div class="form-group">
+                <label asp-for="Subject">Məzmun</label>
+                <textarea asp-for="Subject" class="form-control" rows="5"></textarea>
+            </div>
+            <div>
+                <span asp-validation-for="Subject" class="text-danger">  </span>
+            </div>
+
+
+            <button type="submit" class="btn btn-primary mr-2">Gönder</button>
+
+        </form>
+    </div>
+</div>
+
+
+
+
+@section Scripts{
+
+}

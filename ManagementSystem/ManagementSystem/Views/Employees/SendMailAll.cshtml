@@ -1,0 +1,76 @@
+﻿
+@{
+    ViewData["Title"] = "SendMailAll";
+}
+
+
+@model Email
+@if (ViewBag.Employees!= null)
+{
+    @if (ViewBag.Employees.Count == 0)
+    {
+        <div class=" card col-md-6 grid-margin stretch-card">
+            <div class="card-body">
+
+                <p class="text-danger" style="font-size:medium">
+                    Mail göndərmək üçün İşçi Yaradılmalıdır.
+                </p>
+                <br>
+                </br>
+                <a asp-controller="Employees" asp-action="Index" type="button" class="btn btn-info btn-rounded btn-fw"> Vəzifə Yarat </a>
+            </div>
+        </div>
+    }
+    else
+    {
+        <div class="card">
+
+
+            <div class="card-body">
+                <h4 class="card-title">Toplu Email</h4>
+                <p class="card-description">
+                    Zəhmət olmasa bütün xanaları doldurun.
+                </p>
+                <form method="post" class="forms-sample">
+
+                    <div class="form-group">
+                        <label asp-for="Files">Fayllar</label>
+                        <input asp-for="Files" class="form-control">
+                    </div>
+                    <div>
+                        <span asp-validation-for="Files" class="text-danger">  </span>
+                    </div>
+
+
+                    <div class="form-group">
+                        <label asp-for="Body">Başlıq</label>
+                        <input asp-for="Body" class="form-control">
+                    </div>
+                    <div>
+                        <span asp-validation-for="Body" class="text-danger">  </span>
+                    </div>
+
+
+
+                    <div class="form-group">
+                        <label asp-for="Subject">Məzmun</label>
+                        <textarea asp-for="Subject" class="form-control" rows="5"></textarea>
+                    </div>
+                    <div>
+                        <span asp-validation-for="Subject" class="text-danger">  </span>
+                    </div>
+
+
+                    <button type="submit" class="btn btn-primary mr-2">Gönder</button>
+
+                </form>
+            </div>
+        </div>
+    }
+   
+
+}
+
+
+
+

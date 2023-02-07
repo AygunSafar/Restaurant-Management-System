@@ -1,0 +1,72 @@
+﻿@{
+    ViewData["Title"] = "Create";
+}
+
+@model Salary
+@if (ViewBag.Employees.Count == 0)
+{
+    <div class=" card col-md-6 grid-margin stretch-card">
+        <div class="card-body">
+
+            <p class="text-danger" style="font-size:medium">
+                Maaş ödəməsi üçün  əvvəlcə İşçi yaratmalısınız.
+            </p>
+            <br>
+            </br>
+            <a asp-controller="Employees" asp-action="Index" type="button" class="btn btn-info btn-rounded btn-fw"> İşçi Yarat </a>
+        </div>
+    </div>
+}
+else
+{
+    <div class="row">
+        <div class="col-md-6 grid-margin stretch-card">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title">Maaşı Ödə </h4>
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                    <p class="card-description">
+                        Zəhmət olmasa məlumatları qeyd edin.
+                    </p>
+                    <br>
+                    </br>
+                    <form method="post" class="forms-sample">
+
+                        <div>
+                            <div class="form-group">
+                                <label>İşçini Seç</label>
+                                <select class="form-control" name="empId">
+                                    @if (ViewBag.Employees != null)
+                                    {
+                                        @foreach (Employee employee in ViewBag.Employees)
+                                        {
+                                            <option value="@employee.Id">@employee.FullName</option>
+                                        }
+                                    }
+
+
+
+                                </select>
+                            </div>
+                        </div>
+
+
+
+
+
+                        <button type="submit" class="btn btn-primary mr-2">Submit</button>
+                        <a class="btn btn-secondary" asp-action="Index">Geriyə</a>
+
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+
+
+
+
+

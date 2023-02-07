@@ -1,0 +1,77 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+
+
+@section Css{
+    <style type="text/css">
+
+        .labelright {
+            text-align: right;
+        }
+
+        .fa-customize {
+            font-size: 20px;
+            background-color: white;
+        }
+
+    </style>
+}
+
+@model Kassa
+
+<div class="row">
+
+    <div class="col-md-12 grid-margin stretch-card ">
+
+        <div class="card" style="background-color: #1A2238">
+
+            <div class="card-body">
+                <h3 class="text-white text-center " style="font-weight:500">KASSA</h3>
+              
+                <div class="d-flex align-items-center justify-content-between justify-content-md-center justify-content-xl-between flex-wrap mb-4">
+                    <div class="text-left text-white" style="font-size:22px">
+                        
+                        <div>
+                            <label class="font-weight-bolder"> Son dəyişmə vaxtı:</label> <label asp-for="LastModifiedTime">@Model.LastModifiedTime</label>
+
+                        </div>
+                        <div>
+                            <label class="font-weight-bolder"> Son dəyişmə səbəbi:</label> <label asp-for="LastModifiedCause">@Model.LastModifiedCause</label>
+
+                        </div>
+                        <div>
+                            <label class="font-weight-bolder"> Qeyd edən şəxs:</label>  <label asp-for="LastModifiedPerson">@Model.LastModifiedPerson </label>
+
+                        </div>
+                       
+                        <div>
+                            <label class="font-weight-bolder"> Miqdar:</label> <label asp-for="LastAmount">@Model.LastAmount ₼ </label>
+
+                        </div>
+                        <div>
+                            <label class="font-weight-bolder"> Balans:</label> <label asp-for="Balance">@Model.Balance ₼ </label>
+
+                        </div>
+
+                    </div>
+                    <img src="~/images//money.png.png" style="height:200px">
+
+                  
+                  
+            
+                </div>
+
+
+                <canvas id="budget-chart" height="10"></canvas>
+            </div>
+        </div>
+    </div>
+
+
+
+
+</div>
+
+

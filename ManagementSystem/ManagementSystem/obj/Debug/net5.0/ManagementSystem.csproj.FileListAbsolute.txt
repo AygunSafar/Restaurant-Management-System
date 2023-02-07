@@ -1,0 +1,1248 @@
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\appsettings.json
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.exe
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.deps.json
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.pdb
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.Views.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.Views.pdb
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.RazorAssemblyInfo.cache
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.RazorAssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\scopedcss\bundle\ManagementSystem.styles.css
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\ManagementSystem.StaticWebAssets.Manifest.cache
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\ManagementSystem.StaticWebAssets.Pack.cache
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\msbuild.ManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\msbuild.build.ManagementSystem.props
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ManagementSystem.props
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ManagementSystem.props
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.TagHelpers.input.cache
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.TagHelpers.output.cache
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.RazorCoreGenerate.cache
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.RazorTargetAssemblyInfo.cache
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.RazorTargetAssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.Views.pdb
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\refint\ManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.pdb
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ref\ManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.csproj.CopyComplete
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Humanizer.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\OneDrive\Desktop\Asp.Net folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Employees\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\appsettings.json
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.exe
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.deps.json
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.pdb
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.Views.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.Views.pdb
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Humanizer.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.RazorAssemblyInfo.cache
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.RazorAssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\obj\Debug\net5.0\scopedcss\bundle\ManagementSystem.styles.css
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\ManagementSystem.StaticWebAssets.Manifest.cache
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\ManagementSystem.StaticWebAssets.Pack.cache
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\msbuild.ManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\msbuild.build.ManagementSystem.props
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ManagementSystem.props
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ManagementSystem.props
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.TagHelpers.input.cache
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.TagHelpers.output.cache
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.RazorCoreGenerate.cache
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Employees\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.RazorTargetAssemblyInfo.cache
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.RazorTargetAssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.Views.pdb
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.csproj.CopyComplete
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\obj\Debug\net5.0\refint\ManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.pdb
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ref\ManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\appsettings.json
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.exe
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.deps.json
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.pdb
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.Views.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.Views.pdb
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Humanizer.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.RazorAssemblyInfo.cache
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.RazorAssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\scopedcss\bundle\ManagementSystem.styles.css
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\ManagementSystem.StaticWebAssets.Manifest.cache
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\ManagementSystem.StaticWebAssets.Pack.cache
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\msbuild.ManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\msbuild.build.ManagementSystem.props
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ManagementSystem.props
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ManagementSystem.props
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.TagHelpers.input.cache
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.TagHelpers.output.cache
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.RazorCoreGenerate.cache
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Employees\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.RazorTargetAssemblyInfo.cache
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.RazorTargetAssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.Views.pdb
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.csproj.CopyComplete
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\refint\ManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.pdb
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ref\ManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Users\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Users\Update.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Jobs\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Jobs\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Jobs\Update.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Employees\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Employees\Update.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Employees\Detail.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Employees\SendMail.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\New folder\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Employees\SendMailAll.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\appsettings.json
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.exe
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.deps.json
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.pdb
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.Views.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.Views.pdb
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Humanizer.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.RazorAssemblyInfo.cache
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.RazorAssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\scopedcss\bundle\ManagementSystem.styles.css
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\ManagementSystem.StaticWebAssets.Manifest.cache
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\ManagementSystem.StaticWebAssets.Pack.cache
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\msbuild.ManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\msbuild.build.ManagementSystem.props
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ManagementSystem.props
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ManagementSystem.props
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.TagHelpers.input.cache
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.TagHelpers.output.cache
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.RazorCoreGenerate.cache
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Employees\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Employees\Detail.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Employees\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Employees\SendMail.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Employees\SendMailAll.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Employees\Update.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Jobs\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Jobs\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Jobs\Update.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Users\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Users\Update.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.RazorTargetAssemblyInfo.cache
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.RazorTargetAssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.Views.pdb
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.csproj.CopyComplete
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\refint\ManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.pdb
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ref\ManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Incomes\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Incomes\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Expenses\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Expenses\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_kassaPartialView.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\PaidSalaries\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\PaidSalaries\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\FoodCategory\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\FoodCategory\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\FoodCategory\Update.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Foods\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Foods\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Foods\Update.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\DrinkCategories\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\DrinkCategories\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\DrinkCategories\Update.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Drinks\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Drinks\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Drinks\Update.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Foods\Detail.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Drinks\Detail.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\appsettings.json
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.exe
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.deps.json
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.pdb
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.Views.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.Views.pdb
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Humanizer.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.RazorAssemblyInfo.cache
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.RazorAssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\scopedcss\bundle\ManagementSystem.styles.css
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\ManagementSystem.StaticWebAssets.Manifest.cache
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\ManagementSystem.StaticWebAssets.Pack.cache
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\msbuild.ManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\msbuild.build.ManagementSystem.props
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ManagementSystem.props
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ManagementSystem.props
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.TagHelpers.input.cache
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.TagHelpers.output.cache
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.RazorCoreGenerate.cache
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\DrinkCategories\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\DrinkCategories\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\DrinkCategories\Update.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Drinks\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Drinks\Detail.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Drinks\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Drinks\Update.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Employees\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Employees\Detail.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Employees\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Employees\SendMail.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Employees\SendMailAll.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Employees\Update.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Expenses\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Expenses\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\FoodCategory\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\FoodCategory\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\FoodCategory\Update.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Foods\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Foods\Detail.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Foods\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Foods\Update.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Incomes\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Incomes\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Jobs\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Jobs\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Jobs\Update.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\PaidSalaries\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\PaidSalaries\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_kassaPartialView.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Users\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Users\Update.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.RazorTargetAssemblyInfo.cache
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.RazorTargetAssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.Views.pdb
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.csproj.CopyComplete
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\refint\ManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.pdb
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Desktop\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ref\ManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\appsettings.json
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.exe
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.deps.json
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.pdb
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.Views.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.Views.pdb
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Humanizer.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.RazorAssemblyInfo.cache
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.RazorAssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\scopedcss\bundle\ManagementSystem.styles.css
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\ManagementSystem.StaticWebAssets.Manifest.cache
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\ManagementSystem.StaticWebAssets.Pack.cache
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\msbuild.ManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\msbuild.build.ManagementSystem.props
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ManagementSystem.props
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ManagementSystem.props
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.TagHelpers.input.cache
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.TagHelpers.output.cache
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.RazorCoreGenerate.cache
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\DrinkCategories\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\DrinkCategories\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\DrinkCategories\Update.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Drinks\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Drinks\Detail.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Drinks\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Drinks\Update.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Employees\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Employees\Detail.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Employees\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Employees\SendMail.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Employees\SendMailAll.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Employees\Update.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Expenses\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Expenses\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\FoodCategory\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\FoodCategory\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\FoodCategory\Update.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Foods\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Foods\Detail.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Foods\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Foods\Update.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Incomes\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Incomes\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Jobs\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Jobs\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Jobs\Update.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\PaidSalaries\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\PaidSalaries\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_kassaPartialView.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Users\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Users\Update.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.RazorTargetAssemblyInfo.cache
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.RazorTargetAssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.Views.pdb
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.csproj.CopyComplete
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\refint\ManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.pdb
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ref\ManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Reservations\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Reservations\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Tables\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Tables\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Tables\Update.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Menu\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Reservations\Update.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\appsettings.json
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.exe
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.deps.json
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.pdb
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.Views.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ManagementSystem.Views.pdb
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Humanizer.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.RazorAssemblyInfo.cache
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.RazorAssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\scopedcss\bundle\ManagementSystem.styles.css
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\ManagementSystem.StaticWebAssets.Manifest.cache
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\ManagementSystem.StaticWebAssets.Pack.cache
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\msbuild.ManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\msbuild.build.ManagementSystem.props
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ManagementSystem.props
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ManagementSystem.props
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.TagHelpers.input.cache
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.TagHelpers.output.cache
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.RazorCoreGenerate.cache
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\DrinkCategories\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\DrinkCategories\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\DrinkCategories\Update.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Drinks\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Drinks\Detail.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Drinks\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Drinks\Update.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Employees\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Employees\Detail.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Employees\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Employees\SendMail.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Employees\SendMailAll.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Employees\Update.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Expenses\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Expenses\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\FoodCategory\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\FoodCategory\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\FoodCategory\Update.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Foods\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Foods\Detail.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Foods\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Foods\Update.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Incomes\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Incomes\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Jobs\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Jobs\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Jobs\Update.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Menu\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\PaidSalaries\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\PaidSalaries\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Reservations\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Reservations\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Reservations\Update.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_kassaPartialView.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Tables\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Tables\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Tables\Update.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Users\Create.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Users\Update.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.RazorTargetAssemblyInfo.cache
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.RazorTargetAssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.Views.pdb
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.csproj.CopyComplete
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\refint\ManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.pdb
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ManagementSystem.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\ref\ManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\USER\OneDrive\Desktop\ProjectEnd\RestaurantManagementSystem\ManagementSystem-main\ManagementSystem\ManagementSystem\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs

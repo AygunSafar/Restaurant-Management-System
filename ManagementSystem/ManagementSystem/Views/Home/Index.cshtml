@@ -1,0 +1,245 @@
+﻿@using static ManagementSystem.Helper.Helper;
+@{
+    ViewData["Title"] = "Home Page";
+}
+@model HomeVM
+
+@section Css{
+    <style type="text/css">
+
+        .labelright {
+            text-align: right;
+        }
+
+        .fa-customize {
+            font-size: 20px;
+            background-color: white;
+        }
+
+    </style>
+}
+@if (User.IsInRole("Admin") || User.IsInRole("SuperAdmin"))
+{
+    <div class="text-center">
+
+        <partial name="_kassaPartialView" model="Model.Kassa" />
+    </div>
+    <div class="row ">
+        <div class="col-md-12 grid-margin stretch-card">
+            <div class="col-md-4 grid-margin stretch-card">
+                <div class="card" style="background-color:#4E3883">
+                    <div class="card-body">
+                        <div class="chartjs-size-monitor"><div class="chartjs-size-monitor-expand"><div class=""></div></div><div class="chartjs-size-monitor-shrink"><div class=""></div></div></div>
+                        <div class="d-flex flex-row align-items-center justify-content-between justify-content-md-center justify-content-xl-between flex-wrap mb-4">
+                            <div style="color:white">
+                                <p class="mb-2 text-md-center text-lg-left" style="font-size:x-large">Son 30 gün Gəlirlər:</p>
+                                <h1 class="mb-0">@ViewBag.Incomes30Days</h1>
+                            </div>
+                            <img src="~/images/income.png" style="height:120px ">
+                            <div></div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 grid-margin stretch-card">
+                <div class="card" style="background-color:#4E3883">
+                    <div class="card-body">
+                        <div class="chartjs-size-monitor"><div class="chartjs-size-monitor-expand"><div class=""></div></div><div class="chartjs-size-monitor-shrink"><div class=""></div></div></div>
+                        <div class="d-flex  align-items-xl-center justify-content-between justify-content-md-center justify-content-xl-between flex-wr mb-4">
+                            <div style="color:white">
+                                <p class="mb-2 text-md-center text-lg-left" style="font-size:x-large">Son 30 gün Xərclər:</p>
+                                <h1 class="mb-0">@ViewBag.Expenses30Days</h1>
+                            </div>
+                            <img src="~/images/expense.png" style="height:120px ">
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 grid-margin stretch-card">
+                <div class="card" style="background-color:#4E3883">
+                    <div class="card-body">
+                        <div class="chartjs-size-monitor"><div class="chartjs-size-monitor-expand"><div class=""></div></div><div class="chartjs-size-monitor-shrink"><div class=""></div></div></div>
+                        <div class="d-flex  align-items-xl-center justify-content-between justify-content-md-center justify-content-xl-between flex-wrap mb-4">
+                            <div style="color:white">
+                                <p class="mb-2 text-md-center text-lg-left" style="font-size:x-large">Son 30 gün  Maaşlar:</p>
+                                <h1 class="mb-0">@ViewBag.Salary30Days</h1>
+                            </div>
+                            <img src="~/images/salary.png" style="height:140px ">
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+    <div class="row ">
+        <div class="col-md-12 grid-margin stretch-card">
+            <div class="col-md-3 grid-margin stretch-card">
+                <div class="card" style="background-color:#4B0082">
+                    <div class="card-body">
+                        <div class="chartjs-size-monitor"><div class="chartjs-size-monitor-expand"><div class=""></div></div><div class="chartjs-size-monitor-shrink"><div class=""></div></div></div>
+                        <div class="d-flex flex-row align-items-center justify-content-between justify-content-md-center justify-content-xl-between flex-wrap mb-4">
+                            <div style="color:white">
+                                <p class="mb-2 text-md-center text-lg-left">Ümumi Rezervasiyalar</p>
+                                <h1 class="mb-0">@ViewBag.ReservationsCount</h1>
+                            </div>
+                            <i class="fa-solid fa-download icon-xl text-white"></i>
+                            <div></div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 grid-margin stretch-card">
+                <div class="card" style="background-color:#FF6A3D">
+                    <div class="card-body">
+                        <div class="chartjs-size-monitor"><div class="chartjs-size-monitor-expand"><div class=""></div></div><div class="chartjs-size-monitor-shrink"><div class=""></div></div></div>
+                        <div class="d-flex  align-items-xl-center justify-content-between justify-content-md-center justify-content-xl-between flex-wr mb-4">
+                            <div style="color:white">
+                                <p class="mb-2 text-md-center text-lg-left">Gözlənən Rezervasiyalar</p>
+                                <h1 class="mb-0">@ViewBag.PendingCount</h1>
+                            </div>
+                            <i class=" fa-solid fa-eye icon-xl text-white"></i>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 grid-margin stretch-card">
+                <div class="card" style="background-color:#00ABE1">
+                    <div class="card-body">
+                        <div class="chartjs-size-monitor"><div class="chartjs-size-monitor-expand"><div class=""></div></div><div class="chartjs-size-monitor-shrink"><div class=""></div></div></div>
+                        <div class="d-flex  align-items-xl-center justify-content-between justify-content-md-center justify-content-xl-between flex-wrap mb-4">
+                            <div style="color:white">
+                                <p class="mb-2 text-md-center text-lg-left">Təsdiqlənən Rezervasiyalar</p>
+                                <h1 class="mb-0">@ViewBag.DoneCount</h1>
+                            </div>
+
+                            <i class="fa-solid fa-check icon-xl text-white"></i>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 grid-margin stretch-card">
+                <div class="card" style="background-color:#E40C2B">
+                    <div class="card-body">
+                        <div class="chartjs-size-monitor"><div class="chartjs-size-monitor-expand"><div class=""></div></div><div class="chartjs-size-monitor-shrink"><div class=""></div></div></div>
+                        <div class="d-flex align-items-center justify-content-between justify-content-md-center justify-content-xl-between flex-wrap mb-4">
+                            <div style="color:white">
+                                <p class="mb-2 text-md-center text-lg-left ">Ləğv edilən Rezervasiyalar</p>
+                                <h1 class="mb-0">@ViewBag.CancelCount</h1>
+                            </div>
+                            <i class="fa-solid fa-x icon-xl text-white"></i>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+}
+else
+{
+    <div class="row ">
+        <div class="col-md-12 grid-margin stretch-card">
+            <div class="col-md-3 grid-margin stretch-card">
+                <div class="card" style="background-color:#4B0082">
+                    <div class="card-body">
+                        <div class="chartjs-size-monitor"><div class="chartjs-size-monitor-expand"><div class=""></div></div><div class="chartjs-size-monitor-shrink"><div class=""></div></div></div>
+                        <div class="d-flex flex-row align-items-center justify-content-between justify-content-md-center justify-content-xl-between flex-wrap mb-4">
+                            <div style="color:white">
+                                <p class="mb-2 text-md-center text-lg-left">Ümumi Rezervasiyalar</p>
+                                <h1 class="mb-0">@ViewBag.ReservationsCount</h1>
+                            </div>
+                            <i class="fa-solid fa-download icon-xl text-white"></i>
+                            <div></div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 grid-margin stretch-card">
+                <div class="card" style="background-color:#FF6A3D">
+                    <div class="card-body">
+                        <div class="chartjs-size-monitor"><div class="chartjs-size-monitor-expand"><div class=""></div></div><div class="chartjs-size-monitor-shrink"><div class=""></div></div></div>
+                        <div class="d-flex  align-items-xl-center justify-content-between justify-content-md-center justify-content-xl-between flex-wr mb-4">
+                            <div style="color:white">
+                                <p class="mb-2 text-md-center text-lg-left">Gözlənən Rezervasiyalar</p>
+                                <h1 class="mb-0">@ViewBag.PendingCount</h1>
+                            </div>
+                            <i class=" fa-solid fa-eye icon-xl text-white"></i>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 grid-margin stretch-card">
+                <div class="card" style="background-color:#00ABE1">
+                    <div class="card-body">
+                        <div class="chartjs-size-monitor"><div class="chartjs-size-monitor-expand"><div class=""></div></div><div class="chartjs-size-monitor-shrink"><div class=""></div></div></div>
+                        <div class="d-flex  align-items-xl-center justify-content-between justify-content-md-center justify-content-xl-between flex-wrap mb-4">
+                            <div style="color:white">
+                                <p class="mb-2 text-md-center text-lg-left">Təsdiqlənən Rezervasiyalar</p>
+                                <h1 class="mb-0">@ViewBag.DoneCount</h1>
+                            </div>
+
+                            <i class="fa-solid fa-check icon-xl text-white"></i>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 grid-margin stretch-card">
+                <div class="card" style="background-color:#E40C2B">
+                    <div class="card-body">
+                        <div class="chartjs-size-monitor"><div class="chartjs-size-monitor-expand"><div class=""></div></div><div class="chartjs-size-monitor-shrink"><div class=""></div></div></div>
+                        <div class="d-flex align-items-center justify-content-between justify-content-md-center justify-content-xl-between flex-wrap mb-4">
+                            <div style="color:white">
+                                <p class="mb-2 text-md-center text-lg-left ">Ləğv edilən Rezervasiyalar</p>
+                                <h1 class="mb-0">@ViewBag.CancelCount</h1>
+                            </div>
+                            <i class="fa-solid fa-x icon-xl text-white"></i>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@section Scripts{
+
+    <script>
+
+        (function ($) {
+            'use strict';
+            $(function () {
+                $('[data-toggle="offcanvas"]').on("click", function () {
+                    $('.sidebar-offcanvas').toggleClass('active')
+                });
+            });
+        })(jQuery);
+    </script>
+
+}

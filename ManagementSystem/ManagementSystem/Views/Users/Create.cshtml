@@ -1,0 +1,83 @@
+﻿@model CreateUserVM
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="row">
+    <div class="col-md-6 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Yeni hesab </h4>
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <p class="card-description">
+                    Zəhmət olmasa məlumatları qeyd edin.
+                </p>
+                <form method="post" class="forms-sample">
+                    <div class="form-group">
+                        <label asp-for="FullName">Ad və Soyad</label>
+                        <input asp-for="FullName" class="form-control">
+                        <span style="font-size:small" asp-validation-for="FullName" class="text-danger ">  </span>
+                    </div>
+
+
+                    <div class="form-group">
+                        <label asp-for="UserName">İstifadəçi adı</label>
+                        <input asp-for="UserName" class="form-control">
+                        <span style="font-size:small" asp-validation-for="UserName" class="text-danger">  </span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Email">Email</label>
+                        <input asp-for="Email" class="form-control">
+                        <span style="font-size:small" asp-validation-for="Email" class="text-danger">  </span>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="form-group row">
+                            <label asp-for="Role">İstifadəçinin rolu</label>
+                            <div class="col-sm-9">
+                                <select class="form-control" name="addRole">
+                                    @if (ViewBag.Roles != null)
+                                    {
+                                        @foreach (string item in ViewBag.Roles)
+                                        {
+                                            <option>@item</option>
+
+                                        }
+                                    }
+
+
+
+
+
+                                </select>
+
+                                <span style="font-size:small" asp-validation-for="Role" class="text-danger">  </span>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Password">Şifrə</label>
+                        <input asp-for="Password" class="form-control">
+                        <span style="font-size:small" asp-validation-for="Password" class="text-danger">  </span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="ConfirmPassword">Şifrənin təsdiqi</label>
+                        <input asp-for="ConfirmPassword" class="form-control">
+                        <span style="font-size:small" asp-validation-for="ConfirmPassword" class="text-danger">  </span>
+                    </div>
+
+
+
+                    <button type="submit" class="btn btn-primary mr-2">Yarat</button>
+                    <a class="btn btn-secondary" asp-action="Index">Geriyə</a>
+
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,125 @@
+﻿@model Employee
+@{
+    ViewData["Title"] = "Create";
+}
+
+@if (ViewBag.Jobs.Count == 0)
+{
+    <div class=" card col-md-6 grid-margin stretch-card">
+    <div class="card-body">
+            
+        <p class="text-danger" style="font-size:medium">
+            İşçi yaratmaq üçün əvvəlcə vəzifə yaratmalısınız.
+        </p>
+        <br>
+    </br>
+            <a asp-controller="Jobs" asp-action="Index" type="button" class="btn btn-info btn-rounded btn-fw"> Vəzifə Yarat </a>
+    </div>
+    </div>
+}
+else
+{
+  
+
+    <div class=" card col-md-6 grid-margin stretch-card">
+
+
+        <div class="card-body">
+            <h4 class="card-title">İşçi Yarat</h4>
+            <p class="card-description">
+                Zəhmət olmasa bütün xanaları doldurun.
+            </p>
+
+            <form method="post" class="forms-sample">
+                <div class="form-group">
+                    <label asp-for="FullName">Ad və Soyad</label>
+                    <input asp-for="FullName" class="form-control">
+
+                    <span style="font-size:small" asp-validation-for="FullName" class="text-danger">  </span>
+                </div>
+
+
+
+                <div class="form-group">
+                    <label asp-for="FatherName">Ata adı</label>
+                    <input asp-for="FatherName" class="form-control">
+                    <span style="font-size:small" asp-validation-for="FatherName" class="text-danger">  </span>
+                </div>
+
+
+
+
+                <div class="form-group">
+                    <label asp-for="BirthDate">Doğum Tarixi</label>
+                    <input asp-for="BirthDate" name="birthDate" type="date" class="form-control">
+
+                    <span style="font-size:small" asp-validation-for="BirthDate" class="text-danger">  </span>
+                </div>
+
+
+
+                <div class="form-group">
+                    <label asp-for="Gender">Cins</label>
+                    <select asp-for="Gender" asp-items="Html.GetEnumSelectList<ManagementSystem.Helper.Helper.Gender>()" class="form-control">
+                    </select>
+
+                    <span style="font-size:small" asp-validation-for="Gender" class="text-danger">  </span>
+                </div>
+
+
+
+
+
+
+                <div class="form-group">
+                    <label asp-for="PhoneNumber">Mobil nömrə</label>
+                    <input asp-for="PhoneNumber" class="form-control" type="tel">
+                    <span style="font-size:small" asp-validation-for="PhoneNumber" class="text-danger">  </span>
+                </div>
+
+
+
+                <div class="form-group">
+                    <label asp-for="Email">Email</label>
+                    <input asp-for="Email" class="form-control">
+                    <span style="font-size:small" asp-validation-for="Email" class="text-danger">  </span>
+                </div>
+
+
+
+                <div class="form-group">
+                    <label asp-for="Salary">Maaş</label>
+                    <input asp-for="Salary" class="form-control">
+                    <span style="font-size:small" asp-validation-for="Salary" class="text-danger">  </span>
+                </div>
+
+
+
+
+
+                <div>
+                    <div class="form-group">
+                        <label>Vəzifə</label>
+                        <select class="form-control" name="jobId">
+
+                            @foreach (Job job in ViewBag.Jobs)
+                            {
+                                <option value="@job.Id">@job.Name</option>
+                            }
+
+
+                        </select>
+                    </div>
+                </div>
+                <button type="submit" class="btn btn-primary mr-2">Submit</button>
+
+            </form>
+        </div>
+    </div>
+
+
+
+}
+
+
+   

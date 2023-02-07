@@ -1,0 +1,98 @@
+﻿@{
+    ViewData["Title"] = "Update";
+}
+
+@model Reservation
+
+
+
+
+<div class="card">
+
+
+    <div class="card-body">
+        <h4 class="card-title">Rezervasiya</h4>
+        <p class="card-description">
+            Zəhmət olmasa bütün xanaları doldurun.
+        </p>
+
+        <form method="post" class="forms-sample">
+            <div class="form-group">
+                <label asp-for="FullName">Ad və Soyad</label>
+                <input asp-for="FullName" class="form-control">
+                <span style="font-size:small" asp-validation-for="FullName" class="text-danger">  </span>
+            </div>
+
+
+            <div class="form-group">
+                <label asp-for="Notes">Qeydlər</label>
+                <input asp-for="Notes" class="form-control">
+                <span style="font-size:small" asp-validation-for="Notes" class="text-danger">  </span>
+            </div>
+
+
+            <div class="form-group">
+                <label asp-for="Day">Gün</label>
+                <input asp-for="Day" name="day" type="date" class="form-control">
+                <span style="font-size:small" asp-validation-for="Day" class="text-danger">  </span>
+            </div>
+
+
+            <div class="form-group">
+                <label asp-for="StartTime">Başlanğıc Saat</label>
+                <input asp-for="StartTime" name="startTime" type="time" class="form-control">
+                <span style="font-size:small" asp-validation-for="StartTime" class="text-danger">  </span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="EndTime">Bitiş Saat</label>
+                <input asp-for="EndTime" name="endTime" type="time" class="form-control">
+                <span style="font-size:small" asp-validation-for="EndTime" class="text-danger">  </span>
+            </div>
+
+      
+
+            <div>
+                <label asp-for="Status">Status</label>
+                <select asp-for="Status" asp-items="Html.GetEnumSelectList<ManagementSystem.Helper.Helper.ReservationStatus>()" class="text-colorblack">
+                </select>
+
+
+            </div>
+
+
+
+
+            <div>
+                <div class="form-group">
+                    <label>Masa</label>
+                    <select class="form-control" name="newTableId">  
+                        @if(ViewBag.Tables!=null){
+                            @foreach (Table item in ViewBag.Tables)
+                            {
+                                if (Model.TableId== item.Id)
+                                {
+                                    <option selected value="@item.Id">@item.Name</option>
+                                }
+                                else
+                                {
+                                    <option value="@item.Id">@item.Name</option>
+                                }
+                            }
+
+                        }
+                     
+                    </select>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary mr-2">Təsdiqlə</button>
+            <a asp-action="Index" class="btn btn-secondary text-white">Geriyə</a>
+
+        </form>
+    </div>
+</div>
+
+
+
+
+

@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "Create";
+}
+
+@model Job
+<div class="raw">
+    <div class="row">
+        <div class="col-md-12 grid-margin stretch-card">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title grid-margin-lg-0" >Vəzifə Yarat</h4>
+                    <p style="font-size:small" class="text-muted"> Zəhmət olmasa,xanaları doldurun.</p>
+                    <br>
+                </br>
+
+                    <form class="forms-sample" method="post">
+                        <div class="form-group">
+                            <label asp-for="Name">Vəzifə Adı</label>
+                            <input asp-for="Name" class="form-control">
+                            <span style="font-size:small" asp-validation-for="Name" class="text-danger">  </span>
+                        </div>
+
+
+                        <button type="submit" class="btn btn-primary mr-2">Yarat</button>
+                        <a asp-action="Index" class="btn btn-secondary text-white">Geriyə</a>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    @section Scripts{
+        <partial name="_ValidationScriptsPartial" />
+    }

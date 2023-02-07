@@ -1,0 +1,75 @@
+﻿@model UpdateUserVM
+@{
+    ViewData["Title"] = "Update";
+}
+
+<div class="row">
+    <div class="col-md-6 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Yeni hesab </h4>
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <p class="card-description">
+                    Zəhmət olmasa məlumatları qeyd edin.
+                </p>
+                <form method="post" class="forms-sample">
+                    <div class="form-group">
+                        <label asp-for="FullName">Ad və Soyad</label>
+                        <input asp-for="FullName" class="form-control">
+                    </div>
+                    <div>
+                        <span asp-validation-for="FullName" class="text-danger">  </span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="UserName">İstifadəçi adı</label>
+                        <input asp-for="UserName" class="form-control">
+                    </div>
+                    <div>
+                        <span asp-validation-for="UserName" class="text-danger">  </span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Email">Email</label>
+                        <input asp-for="Email" class="form-control">
+                    </div>
+                    <div>
+                        <span asp-validation-for="Email" class="text-danger">  </span>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group row">
+                            <label asp-for="Role">İstifadəçinin rolu</label>
+                            <div class="col-sm-9">
+                                <select class="form-control" name="newRole">
+                                    @foreach (string item in Model.Roles)
+                                    {
+                                        if (Model.Role == item)
+                                        {
+                                            <option selected value="@item">@item</option>
+                                        }
+                                        else
+                                        {
+                                            <option value="@item">@item</option>
+                                        }
+                                    }
+
+
+                                </select>
+                                <div>
+                                    <span asp-validation-for="Role" class="text-danger">  </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+                    <button type="submit" class="btn btn-primary mr-2">Submit</button>
+                    <a class="btn btn-light" asp-action="Index">Geriyə</a>
+
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+

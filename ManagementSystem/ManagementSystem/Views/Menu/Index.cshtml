@@ -1,0 +1,273 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+@{
+    MenuVM menuVM = Model;
+
+}
+
+
+@if (menuVM.Drinks.Count == 0 || menuVM.Foods.Count == 0)
+{
+    <div class=" card col-md-6 grid-margin stretch-card">
+        <div class="card-body">
+
+            <p class="text-danger" style="font-size:medium">
+                Menyunun görünməsi üçün ən az 1 Yemək və 1 İçki mütləq qeyd olunmalıdır.
+            </p>
+            <br>
+            </br>
+            @if (menuVM.Drinks.Count < 1)
+            {
+                <a asp-controller="Drinks" asp-action="Index" type="button" class="btn btn-info btn-rounded btn-fw"> İçki Yarat </a>
+            }
+            @if (menuVM.Foods.Count < 1)
+            {
+                <a asp-controller="Foods" asp-action="Index" type="button" class="btn btn-info btn-rounded btn-fw"> Yemək Yarat </a>
+            }
+
+
+        </div>
+    </div>
+}
+else
+{
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Document</title>
+        <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"
+          integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A=="
+          crossorigin="anonymous"
+          referrerpolicy="no-referrer" />
+        <link rel="stylesheet" href="./style.css" />
+    </head>
+    <body>
+
+        <main>
+            <section>
+
+                <div class="container">
+                    <div class="row ">
+                        <div class="col-12 d-flex justify-content-between">
+
+                            <ul class="category d-none d-flex list-unstyled">
+                                <li><a class="btn btn-danger mr-2" href="" data-id="all">All</a></li>
+                                
+                                @foreach (FoodCategory cat in menuVM.FoodCategories)
+                                {
+                                    <li><a href="" class="btn btn-danger mr-2" data-id="food-@cat.Id">@cat.Name</a></li>
+                                }
+                                @foreach (DrinkCategory cat in menuVM.DrinkCategories)
+                                {
+                                    <li><a href="" class="btn btn-danger mr-2 " data-id="drink-@cat.Id">@cat.Name</a></li>
+                                }
+
+                            </ul>
+
+
+                        </div>
+                    </div>
+
+                    <div class="row ">
+
+
+                        @foreach (Food food in menuVM.Foods)
+                        {
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+
+                                <div class="product-item text-center allMenuElems" data-id="food-@food.FoodCategoryId">
+                                    <div class="menucards">
+                                        <div class="img">
+                                            <a asp-controller="Foods" asp-action="Detail" asp-route-id="@food.Id">
+                                                <img src="~/images/@food.Image" class="img" alt="" style="object-fit:cover">
+                                            </a>
+                                        </div>
+                                        <div class="info">
+                                            <h5>@food.Name</h5>
+                                            <p style="font-size:small">
+                                                @food.Ingredients
+                                            </p>
+                                            <div class="option">
+                                                <p style="font-size:large">@food.Price ₼</p>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        }
+                        @foreach (Drink drink in menuVM.Drinks)
+                        {
+                            <div class="col-md-4 col-sm-6 col-xs-12 ">
+
+                                <div class="product-item text-center allMenuElems" data-id="drink-@drink.DrinkCategoryId">
+                                    <div class="menucards">
+                                        <div class="img">
+                                            <a asp-controller="Foods" asp-action="Detail" asp-route-id="@drink.Id">
+                                                <img src="~/images/@drink.Image" class="img" alt="" style="object-fit:cover">
+                                            </a>
+                                        </div>
+                                        <div class="info">
+                                            <h5>@drink.Name</h5>
+                                            <p style="font-size:small">
+                                                @drink.Ingredients
+                                            </p>
+                                            <div class="option">
+                                                <p style=" font-size:large ">@drink.Price ₼</p>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        }
+                    </div>
+                </div>
+
+            </section>
+
+        </main>
+
+
+   
+        <script src="./app.js"></script>
+    </body>
+    </html>
+}
+
+
+
+
+
+@section Css{
+    <style type="text/css">
+
+        element.style {
+        }
+
+        .menunamesContainer {
+            display: flex;
+            flex-direction: row;
+            gap: 30px;
+            justify-content: center;
+        }
+
+        .menunames {
+            border: 1px #150734 solid;
+            padding: 5px 15px;
+            border-radius: 35%;
+        }
+
+            .menunames:hover {
+                cursor: pointer;
+                color: white;
+                background-color: #150734;
+            }
+
+        .allMenuElems {
+            margin-top: 12px;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .menucards {
+            width: 390px;
+            height: 400px;
+            background-color: #150734;
+            border: 1px solid #C4C4C4;
+            border-radius: 10px;
+            box-shadow: 0px 3px 15px #C4C4C4;
+            overflow: hidden;
+            margin: 20px;
+            position: relative;
+            transition: all 0.3s ease;
+        }
+
+            .menucards:hover {
+                transform: scale(1.05);
+                box-shadow: 0px 3px 20px #C4C4C4;
+                cursor: pointer;
+            }
+
+            .menucards .img {
+                width: 100%;
+                height: 70%;
+                background-repeat: no-repeat;
+                background-position: center;
+                background-size: cover;
+            }
+
+            .menucards .info {
+                width: 100%;
+                height: 45%;
+                background-color: #150734;
+                padding: 20px;
+                box-sizing: border-box;
+                position: absolute;
+                bottom: 0;
+            }
+
+            .menucards .option {
+                margin: 0;
+                padding: 0;
+                font-size: 18px;
+                font-weight: bold;
+                color: white;
+                text-transform: uppercase;
+            }
+
+            .menucards .info h5 {
+                margin: 0;
+                padding: 0;
+                font-size: 18px;
+                font-weight: bold;
+                color: white;
+                text-transform: uppercase;
+            }
+
+            .menucards .info p {
+                margin: 10px 0 0 0;
+                padding: 0;
+                font-size: 14px;
+                color: white;
+            }
+
+    </style>
+
+
+}
+@section Scripts{
+
+}
+
+
+
+
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+        crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+        crossorigin="anonymous"></script>
+<script src="https://kit.fontawesome.com/e5e249fce2.js" crossorigin="anonymous"></script>
+<script src="~/owlcarousel/owl.carousel.min.js"></script>
+<script src="~/js/script.js"></script>
+
+
+
+
+
+
